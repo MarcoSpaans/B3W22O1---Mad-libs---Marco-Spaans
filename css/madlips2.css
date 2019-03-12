@@ -1,0 +1,53 @@
+
+h1 {
+  color: white;
+}
+
+#background {
+  background-color: #808080;
+}
+
+#head {
+  color: white;
+}
+
+.center {
+  margin: 0 auto;
+  width: 740px;
+}
+
+.menu {
+  width: 740px;
+  background-color: #cc0000;
+}
+
+.menu a {
+  padding: 10px;
+  font-size: 1.2em;
+  color: white;
+}
+
+#form {
+  background-color: #f2f2f2;
+  padding: 20px;
+  width: 740px;
+}
+
+.form-group {
+  display: inline;
+}
+
+#submit {
+  margin: 15px;
+}
+
+footer {
+  background-color: #595959;
+  text-align: center;
+  color: white;
+}
+
+footer p {
+  margin: 0;
+  padding: 20px 0;
+}

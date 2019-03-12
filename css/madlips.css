@@ -1,0 +1,48 @@
+body {
+  background-color: #808080;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: white;
+}
+
+.center {
+  margin: 0 auto;
+  width: 740px;
+}
+
+.menu {
+  background-color: #cc0000;
+  width: 740px;
+}
+
+.menu a {
+  text-decoration: none;
+  padding: 10px;
+  font-size: 1.2em;
+  color: white;
+}
+
+.form {
+  background-color: #f2f2f2;
+  width: 700px;
+  padding: 20px;
+}
+
+input:not(.submit) {
+  float: right;
+  position: relative;
+  right: 120px;
+}
+
+footer {
+  background-color: #595959;
+  text-align: center;
+  color: white;
+}
+
+footer p {
+  margin: 0;
+  padding: 20px 0;
+}
